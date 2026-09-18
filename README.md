@@ -1,7 +1,7 @@
 # Cited Credit Memo Pipeline
 
 An agentic pipeline that reads a commercial financial statement, calculates lending
-ratios, checks them against policy, and drafts a narrative credit memo — where every
+ratios, checks them against policy, and drafts a narrative credit memo, where every
 figure traces back to the exact page and snippet it came from.
 
 Built as a hands-on exploration of agentic AI development: the Microsoft Agent
